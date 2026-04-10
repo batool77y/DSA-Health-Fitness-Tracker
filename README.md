@@ -2,7 +2,7 @@
 
 A C++ console-based Health and Fitness Tracker developed using Object-Oriented Programming and Data Structures.
 
-#Features
+## Features
 - User account creation and sign-in system
 - Bronze, Silver, and Gold membership levels
 - Weight tracking and progress monitoring
@@ -11,22 +11,17 @@ A C++ console-based Health and Fitness Tracker developed using Object-Oriented P
 - Sleep tracking and reminders
 - Activity history using Binary Search Tree
 
-# Data Structures Used
+## Data Structures Used
 - Map (for storing users)
 - Stack (for activity tracking)
 - Queue (for reminders)
 - Linked List (for weight logs)
 - Binary Search Tree (for activity history)
 
-# Technologies Used
-- C++
-- OOP (Inheritance, Polymorphism)
-- STL (Standard Template Library)
-
-# How to Run
+## How to Run
 1. Compile the code using any C++ compiler (e.g., g++)
 2. Run the executable file
 3. Follow the menu options
 
-# File
+## File
 - `main.cpp` — main source code file
